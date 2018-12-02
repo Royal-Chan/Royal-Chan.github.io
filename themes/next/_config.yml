@@ -361,7 +361,7 @@ baidu_analytics: 5171d4e41428bb24a5783e5aa0bccf99
 # Disqus
 disqus:
   enable: true
-  shortname:
+  shortname: cao-mu
   count: true
 # Hypercomments
 #hypercomments_id:
