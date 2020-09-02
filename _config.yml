@@ -3,24 +3,24 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 草 | 木
-subtitle: Royal's Blog
+title: 一叶
+subtitle: 一花一世界，一叶一菩提
 description: 技术分享
 keywords: 
-author: 陈荣耀 | Royal Chan
+author: 朱兆霖
 language: zh_CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.imryao.com
+url: http://zzlblog.itsroyal.me:5080
 root: /
 permalink: :category/:id/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: zzlblog
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
